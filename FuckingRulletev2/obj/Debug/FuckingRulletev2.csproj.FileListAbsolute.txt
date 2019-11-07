@@ -1,0 +1,17 @@
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\bin\Debug\FuckingRulletev2.exe.config
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\bin\Debug\FuckingRulletev2.exe
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\bin\Debug\FuckingRulletev2.pdb
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.csprojAssemblyReference.cache
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\MainWindow.g.cs
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\App.g.cs
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2_MarkupCompile.cache
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2_MarkupCompile.lref
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\MainWindow.baml
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.g.resources
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.Properties.Resources.resources
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.csproj.GenerateResource.cache
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.csproj.CoreCompileInputs.cache
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.exe
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\FuckingRulletev2.pdb
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\TextWindow.g.cs
+C:\Users\Tecede\source\repos\FuckingRulletev2\FuckingRulletev2\obj\Debug\TextWindow.baml

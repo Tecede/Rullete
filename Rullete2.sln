@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rullete", "FuckingRulletev2\Rullete.csproj", "{9795E2DE-C389-458B-940F-3008C01C75CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9795E2DE-C389-458B-940F-3008C01C75CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9795E2DE-C389-458B-940F-3008C01C75CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9795E2DE-C389-458B-940F-3008C01C75CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9795E2DE-C389-458B-940F-3008C01C75CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F6E67B-CC0E-418C-A2D9-444CD36DCA23}
+	EndGlobalSection
+EndGlobal
